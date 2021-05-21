@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I ran a sub 5 hour Marathon 👟
 
 ### Some of my favorites
-![alt text][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png alt="drawing" width="200"/>
+
