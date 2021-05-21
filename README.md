@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ivan, full-stack developer based in Barcelona
 
-####I enjoy solving problems and embracing new technologies in a rapid environment.🚀
+#### I enjoy solving problems and embracing new technologies in a rapid environment.🚀
 
 - 🔭 I’m currently working on building a learning aid app.
 - 🌱 I’m currently learning Python and Django.
