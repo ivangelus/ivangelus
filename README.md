@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Ivan, full-stack developer based in Barcelona
+### Hey everybody 👋, Welcome to my world 🌎
+#### I'm Ivan, full-stack developer based in Barcelona
 
 #### I enjoy solving problems and embracing new technologies in a rapid environment.🚀
 
