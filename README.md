@@ -1,5 +1,5 @@
 ### Hey everybody 👋, Welcome to my world 🌎
-#### I'm Ivan, full-stack developer based in Barcelona
+#### I'm Ivan, full-stack developer based in Prague
 
 #### I enjoy solving problems and embracing new technologies in a rapid environment.🚀
 
