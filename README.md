@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Go.
 - 💬 Ask me about whatever is on your mind, always look forward to fresh ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivan-gelo/)
-- ⚡ Fun fact: I ran a sub 5 hour Marathon 👟
 
 ### A bit of stats
 
