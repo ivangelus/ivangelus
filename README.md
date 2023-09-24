@@ -6,4 +6,4 @@
 
 ### A bit of stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGelo1&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivangelus&count_private=true&show_icons=true&theme=radical)
