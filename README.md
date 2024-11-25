@@ -1,4 +1,4 @@
-### Hey hey 👋, Welcome to my world 🌎
+### Hello 👋,
 #### I'm Ivan, full-stack developer based in Prague
 
 - 💬 Ask me about whatever is on your mind, always look forward to fresh ideas.
